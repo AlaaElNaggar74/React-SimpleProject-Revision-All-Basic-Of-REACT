@@ -1,0 +1,36 @@
+
+.AsidePart a{
+  text-decoration: none;
+  color: black;
+  margin-left: 0;
+}
+.rowasidestyle{
+  background-color: rgb(62, 214, 219);
+
+}
+
+.AsidePart{
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: center;
+height: calc(100vh - 75px);
+}
+.LangingCrudPag{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: calc(100vh - 75px);
+  background-color: rgb(179, 67, 113);
+}
+
+
+.textareafixSize{
+resize:none;
+height: 200px;
+}
+
+.centesingleprodu img{
+  height: 400px;
+}

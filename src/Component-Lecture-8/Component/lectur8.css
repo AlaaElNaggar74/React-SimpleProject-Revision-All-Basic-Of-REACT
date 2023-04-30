@@ -1,0 +1,9 @@
+.lectur8Aside{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* height: calc(100vh - 75px); */
+  background-color: rgb(62, 214, 219);
+
+}
