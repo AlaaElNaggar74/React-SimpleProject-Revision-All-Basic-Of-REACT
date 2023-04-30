@@ -1,3 +1,10 @@
+
+
+Simple app as Revision-All-Basic-Of-REACT with small E-Commerec and CRUD Functionality with simple design 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
